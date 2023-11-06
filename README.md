@@ -6,8 +6,8 @@ Tiago Alfonso Wells, Nick Chin, and Theresa Vazapphilly
 Trying to find which neighborhoods in Pittsburgh are best for non-motorized transportation.
 
 ## Datasets
-### Walkability
-https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio
+### Trip data
+https://data.wprdc.org/dataset/pogoh-trip-data
 
 ### Rack Locations
 https://data.wprdc.org/dataset/bike-rack-locations-downtown-pittsburgh
