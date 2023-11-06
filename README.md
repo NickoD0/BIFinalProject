@@ -1,5 +1,5 @@
 # Big Ideas Final Project
-## Team Tour to Pitt!
+## Team Tour de Pitt!
 Tiago Alfonso Wells, Nick Chin, and Theresa Vazapphilly
 
 ## Overview
