@@ -3,7 +3,7 @@
 Tiago Alfonso Wells, Nick Chin, and Theresa Vazapphilly
 
 ## Overview
-Trying to find which neighborhoods in Pittsburgh are best for non-motorized transportation.
+Trying to find which neighborhoods in Pittsburgh are best for biking.
 
 ## Datasets
 ### Trip data
