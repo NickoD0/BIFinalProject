@@ -3,7 +3,7 @@
 Tiago Alfonso Wells, Nick Chin, and Theresa Vazapphilly
 
 ## Overview
-Trying to find which neighborhoods in Pittsburgh are best for biking.
+Trying to find which neighborhood in Pittsburgh is the best based on bikability. 
 
 ## Datasets
 ### Trip data
